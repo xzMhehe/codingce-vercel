@@ -31,32 +31,3 @@
       backgroundColor: '#3E74C9'
       textColor: '#fff'
       keywords: [记录学习, 技术]
-
-- group: ✨ 虐狗博主 —— 你的春日好运正在派件，请保持心情舒畅
-  noteStyle: info
-  icon: fas fa-heartbeat
-  items:
-    - title: LOVE109❤️纪实小屋
-      avatar: https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/links/LOVE109.jpg
-      url: https://www.love109.cn/
-      backgroundColor: '#FF69B4'
-      textColor: '#fff'
-      keywords: [记录爱情❤️记录生活]
-    - title: 两个有意思的
-      avatar: https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/links/两个有意思的.png
-      url: https://dxq520.cn/
-      backgroundColor: '#FF69B4'
-      textColor: '#fff'
-      keywords: [记录爱情❤️记录生活]
-
-- group: ⚡ 危险区（该区站点保留7天至3个月不定）
-  noteStyle: error
-  icon: fas fa-exclamation-triangle
-  description: 如贵站在该区请检查贵站是否能正常访问或是否违背了本站友链原则（例：未开启https）
-  items:
-    - title: LarsCheng
-      avatar: https://cdn.jsdelivr.net/gh/XuxuGood/cdn@master/blogImages/links/LarsCheng.png
-      url: https://www.larscheng.com/
-      backgroundColor: '#34A853'
-      textColor: '#fff'
-      keywords: [Java]
